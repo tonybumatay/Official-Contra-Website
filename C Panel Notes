@@ -1,0 +1,25 @@
+C Panel
+password: K*********3
+
+ssh contra@contra.wustl.edu
+
+rsync -avz ~/Documents/Wash\ U/Sophomore\ Year/Fall\ 2014/Web\ Dev/Contra\ Project/contraproject/ contra@contra.wustl.edu:'~/public_html/'
+
+Changing permissions:
+chmod g=rx ozark_section_map.jpg
+chmod o=rx ozark_section_map.jpg
+
+FileZilla:
+Host: sftp://contra.wustl.edu
+Username: contra
+Password: K**********
+Port: 22
+
+adjust pictures using preview:
+select all>>tools>>Adjust Size>>Scale Proportionally to height of 200px
+
+
+ToDO:
+-Recopy Gallery Photos into thumb file with height of 350px
+-fix filepath with thumb stuff
+-
