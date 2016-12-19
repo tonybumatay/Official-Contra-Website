@@ -173,7 +173,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/TeamPhotos/TP5G.jpg) no-repeat bottom center scroll;
+    background: url(../img/TeamPhotos/2016MLCFullTeam.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -250,7 +250,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/HFInv2016.jpg) no-repeat bottom center scroll;
+    background: url(../img/2017HFLogoTemp.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -345,7 +345,7 @@ a:focus {
     -moz-animation-timing-function: linear;
 }
 
-@-webkit-keyframes pulse {    
+@-webkit-keyframes pulse {
     0 {
         -webkit-transform: scale(1);
         transform: scale(1);
@@ -362,7 +362,7 @@ a:focus {
     }
 }
 
-@-moz-keyframes pulse {    
+@-moz-keyframes pulse {
     0 {
         -moz-transform: scale(1);
         transform: scale(1);
@@ -557,13 +557,13 @@ h3.tourneyname{
         margin-left: auto;
         margin-right: auto;
     }
-    
+
     #gallery > a {
         margin: 15px;
         padding-top:5px;
         padding-bottom:5px;
     }
-    
+
     #gallery > a img {
         border: 2px solid #fff;
         border-radius: 5px;
@@ -571,7 +571,7 @@ h3.tourneyname{
         max-height: 150px;
         margin-top: 5px;
         margin-bottom: 5px;
-    
+
         transition: all 500ms;
         -webkit-transition: all 500ms;
         -moz-transition: all 500ms;
@@ -594,7 +594,7 @@ h3.tourneyname{
     .gallerie-thumbbox img:hover{
         border: 2px solid #B80000;
     }
-    
+
     .gallerie-thumbbox-selected img{
         border-color:#B80000;
     }
@@ -645,7 +645,7 @@ ul.gallery-list{
     margin-top:0px;
     padding-bottom:15px;
 }
- 
+
 .gallery-list img {
     display: block;
     height: auto;
@@ -654,7 +654,7 @@ ul.gallery-list{
     transition: all 300ms;
     max-width: 100%;
 }
- 
+
 .gallery-list li:hover img {
     -webkit-transform: scale(1.2);
     -moz-transform: scale(1.2);
@@ -684,7 +684,7 @@ ul.gallery-list{
     transition-delay: 100ms;
     z-index: 100;
 }
- 
+
 .gallery-list figcaption p {
     display: table-cell;
     font-size: 1.5em;
@@ -702,7 +702,7 @@ ul.gallery-list{
     -webkit-transform: translateY(40px);
     transform: translateY(40px);
 }
- 
+
 
 @media(max-width:767px) {
 img.contrafont{
@@ -722,7 +722,7 @@ header.intro{
 
 @media(max-width:400px){
 .highlight{
-  width:95%;  
+  width:95%;
   height:300px;
 }
 .pgthumbnail{
